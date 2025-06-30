@@ -1,0 +1,3 @@
+About
+
+This project implements the Solitaire (Samotnik) logic game in C++. The game is played on a console-based 7x7 cross-shaped board with 33 fields, where the goal is to remove as many pegs as possible by jumping over adjacent pegs to an empty field, ideally leaving one peg in the center. The implementation follows the MVC pattern, with separate classes for the game state (model), user interaction (view-controller), and a custom exception hierarchy derived from std::logic_error for handling invalid inputs or moves. The program features a semigraphic board display, move validation, and reports the game outcome (win/loss, remaining pegs, and duration) upon completion.
