@@ -1,4 +1,4 @@
-# ChessProject
+# CPP_Projects
 
 A collection of C++ projects developed to showcase skills in game programming and data structure implementation. This repository contains various projects, primarily built using standard C++ (C++17 or later), with a focus on practical applications, including classic games and fundamental data structures for coursework assignments.
 
@@ -13,7 +13,7 @@ This is a repository that serves as a portfolio of C++ projects created to demon
 The repository is designed to be a centralized hub for exploring, compiling, and running these C++ projects.
 
 ## Requirements
-a
+
 To build and run the projects in this repository, you need:
 
 - **C++ Compiler** (supporting C++17 or later, e.g., g++, MSVC, Clang).
